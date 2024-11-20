@@ -1,0 +1,1 @@
+//You are given an int array of size N. you have to find the smallest possible missing positive number in the array.
